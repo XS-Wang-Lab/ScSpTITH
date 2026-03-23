@@ -1,0 +1,11 @@
+Package: ScSpTITH
+Title: ScSpTITH: A Rank-Correlation Framework for Robust Quantification of Multi-Dimensional Tumor Heterogeneity
+Version: 1.1.0
+Authors@R: c(person(given = "Jiangti", family = "Luo", role = c("aut", "cre"), email = "luojiangti@stu.cpu.edu.cn"),
+              person(given = "Qiqi", family = "Lu", role = c("aut"), email = "qiqi_lu@stu.cpu.edu.cn"))
+Maintainer: Jiangti Luo <luojiangti@stu.cpu.edu.cn>
+Description: A robust and scalable framework that quantifies transcriptional heterogeneity by integrating variance-based gene selection with rank-based correlation analysis.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2

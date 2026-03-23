@@ -47,7 +47,7 @@ The function `ScSpTITHscore()` is used to calculate ITH score. It supports **two
 if (!requireNamespace("devtools", quietly = TRUE))
     install.packages("devtools")
 
-devtools::install_github("WangX-Lab/ScSpTITH")
+devtools::install_github("XS-Wang-Lab/ScSpTITH")
 ```
 
 &nbsp;
